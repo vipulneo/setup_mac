@@ -40,4 +40,4 @@ CONFIGURE_MACOS_SETTINGS="yes"
 
 # Customize your information
 GIT_USER_NAME="Vipul Vikram"
-GIT_USER_EMAIL="vipul.vikram@brambles.com"
+GIT_USER_EMAIL="vipul.neo@gmail.com"
