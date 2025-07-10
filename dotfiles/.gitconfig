@@ -3,7 +3,7 @@
 
 [user]
 	name = Vipul Vikram
-	email = vipul.vikram@brambles.com
+	email = vipul.neo@gmail.com
 
 [core]
 	editor = vim
@@ -33,8 +33,3 @@
 	amend = commit --amend
 	uncommit = reset --soft HEAD~
 	changes = diff --name-status
-[credential]
-	helper = 
-	helper = /usr/local/share/gcm-core/git-credential-manager
-[credential "https://dev.azure.com"]
-	useHttpPath = true
